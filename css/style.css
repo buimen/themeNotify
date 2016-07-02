@@ -29,7 +29,7 @@
 }
 
 .header .header-main .notify {
-	padding: 170px 0px 0px 325px;
+	padding: 150px 0px 0px 325px;
 }
 
 .header .header-main .notify span {
@@ -77,11 +77,11 @@
 	background: #2ecc71;
 }
 
-.header .header-main .icons .circle:hover .hover {
+/*.header .header-main .icons .circle:hover .hover {
 	display: block;
 	top: 25px;
 	position: absolute;
-}
+}*/
 
 /*End Header*/
 .content {
@@ -299,7 +299,7 @@
 }
 
 .footer .menu {
-	width: 55%;
+	width: 50%;
     height: 100px;
     margin: 0px auto;
     padding-top: 60px;

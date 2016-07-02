@@ -180,7 +180,7 @@
 			</div>
 		</div>
 		<div class="footer">
-			<div class="menu">
+			<div class="container menu">
 				<ul>
 					<li><a href="">Contact</a></li>
 					<li><a href="">Download</a></li>

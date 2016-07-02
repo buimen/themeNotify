@@ -4,7 +4,8 @@
 	.slide .slide-img {width: 40px!important; height: 40px!important;}
 	.slide .slide-img .users {width: 40px!important; height: 40px!important;}
 	.slide .slide-img .layer {width: 40px!important; height: 40px!important;}
-	.content-bottom .icons {width: 35%;}
+	.content-bottom .icons {width: 37%;}
+	.footer .menu {width: 60%;}
 }
 
 @media screen and (max-width: 1280px) {
@@ -65,12 +66,11 @@
 	.content .content-main .main-top .col-sm-6 iframe {margin-top: 40px;}
 	.content .content-bottom .bottom-1 p {width: 100%;}
 	.hide-img {display: none;}
-	.slide {width: 90%; padding-top: 20px; padding-left: 50px;}
+	.slide {width: 80%; padding-top: 20px; padding-left: 50px;}
 	.slide .slide-img {width: 20px!important; height: 20px!important;}
 	.slide .slide-img .users {width: 20px!important; height: 20px!important;}
 	.slide .slide-img .layer {width: 20px!important; height: 20px!important;}
 	.content .content-bottom {width: 85%;}
-	/*.content-bottom .icons {margin-left: 85px; margin-top: 20px;}*/
 	.content .content-bottom .bottom-2 footer {padding-top: 15px;}
 	.content-bottom .icons {width: 85%; padding-top: 5px; padding-left: 70px;}
 	.footer .menu {padding-top: 30px;}
@@ -94,15 +94,13 @@
 	.content .content-bottom .bottom-1 p {padding-top: 40px;}
 	.content .content-bottom .bottom-1 footer {padding-top: 15px;}
 	.content .content-bottom .bottom-2 footer {padding-top: 12px;}
-	/*.content-bottom .icons {margin-left: 85px;}*/
 	.slide .slide-img {width: 15px!important; height: 15px!important;}
 	.slide .slide-img .users {width: 15px!important; height: 15px!important;}
 	.slide .slide-img .layer {width: 15px!important; height: 15px!important;}
 	.content-bottom .icons .circle {width: 25px; height: 25px; padding: 4px 0px 0px 0px;}
 	.content-bottom .icons {width: 100%; padding-top: 10px;}
 	.icons .circle .fa {font-size: 14px;}
-	/*.footer .menu-2 {padding-top: 10px;}*/
-	.footer .menu {padding-top: 20px;}
+	.footer .menu {padding-top: 30px;}
 }
 
 @media screen and (max-width: 320px) {
@@ -124,9 +122,7 @@
 	.slide .slide-img .users {width: 14px!important; height: 14px!important;}
 	.slide .slide-img .layer {width: 14px!important; height: 14px!important;}
 	.content .content-bottom {height: 580px;}
-	/*.content-bottom .icons {margin-left: 14px;}*/
 	.content-bottom .icons .circle {margin-right: 5px;}
 	.footer ul li {width: 50%; height: 50px;}
 	.footer {height: 200px;}
-	/*.footer .menu-2 {padding-top: 30px;}*/
 }
