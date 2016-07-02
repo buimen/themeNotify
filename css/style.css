@@ -75,6 +75,7 @@
 
 .header .header-main .icons .circle:hover {
 	background: #2ecc71;
+	cursor: pointer;
 }
 
 /*.header .header-main .icons .circle:hover .hover {
@@ -104,6 +105,7 @@
 	padding: 15px;
 	border-radius: 100px;
 	margin: 0px auto;
+	cursor: pointer;
 }
 
 .content .content-top .col-sm-4 .circle .fa {
@@ -122,6 +124,7 @@
 .content .content-top .col-sm-4 .center span {
 	font-family: FontRalewaySemiBold;
 	font-size: 22px;
+	color: #222222;
 }
 
 .content .content-top .col-sm-4 .center p {
@@ -129,6 +132,7 @@
 	font-size: 16px;
 	line-height: 1.5;
 	padding-top: 20px;
+	color: #848484;
 }
 
 /*End Content Top*/
@@ -147,6 +151,7 @@
 .content .content-main .main-top .col-sm-6 span {
 	font-family: FontRalewaySemiBold;
 	font-size: 22px;
+	color: #222222;
 }
 
 .content .content-main .main-top .col-sm-6 p {
@@ -154,6 +159,7 @@
 	font-size: 16px;
 	line-height: 1.5;
 	padding-top: 25px;
+	color: #848484;
 }
 
 .content .content-main .main-top .col-sm-6 .input-group {
@@ -204,6 +210,7 @@
 	margin: 0px auto;
 	width: 70%;
 	line-height: 1.5;
+	color: #848484;
 }
 
 .content .content-bottom .bottom-1 footer {
@@ -211,12 +218,13 @@
 	font-family: FontRalewayBold;
 	font-size: 18px;
 	padding-top: 25px;
+	color: #2e2e2e;
 }
 
 .slide {
 	margin: 0px auto;
-	width: 95%;
-	height: 50px;
+	width: 1160px;
+	height: 80px;
 	padding-top: 30px;
 }
 
@@ -228,46 +236,52 @@
 	position: relative;
 }
 
-.slide .slide-img:hover .hover {
+/*.slide .slide-img:hover .hover {
 	display: block;
-	top: 20px;
+	top: 32px;
 	left: 10px;
 	position: absolute;
-}
+}*/
 
 .slide .slide-img:hover .layer {
 	display: block;
 	top: 0px;
 	position: absolute;
-	opacity: 0.4;
+	opacity: 0.6;
+	cursor: pointer;
+}
+
+.content .content-bottom .bottom-2 {
+	padding-top: 60px;
 }
 
 .content .content-bottom .bottom-2 footer {
-	padding-top: 50px;
 	font-family: FontRalewaySemiBold;
 	font-size: 24px;
 	text-align: center;
+	color: #000000;
 }
 
 .content .content-bottom .bottom-2 p {
 	text-align: center;
 	font-family: FontHelveticaNeue;
 	font-size: 16px;
+	color: #848484;
 }
 
 .content-bottom .icons {
-	width: 30%;
+	width: 270px;
     height: 50px;
     margin: 0px auto;
-    padding-top: 20px;
+    padding-top: 15px;
 }
 
 .content-bottom .icons .circle {
-	width: 50px;
-	height: 50px;
-	background: #d4d4d4;
-	text-align: center;
-	padding: 12px 12px 17px 5px;
+	width: 35px;
+    height: 35px;
+    background: #d4d4d4;
+    text-align: center;
+    padding: 5px 12px 17px 5px;
 	border-radius: 100px;
 	margin-right: 10px;
 	float: left;
@@ -277,14 +291,15 @@
 
 .content-bottom .icons .circle:hover {
 	background: #2ecc71;
+	cursor: pointer;
 }
 
-.content-bottom .icons .circle:hover .hover {
+/*.content-bottom .icons .circle:hover .hover {
 	display: block;
 	top: 25px;
 	left: 10px;
 	position: absolute;
-}
+}*/
 
 .icons .circle .fa {
 	font-size: 24px;
